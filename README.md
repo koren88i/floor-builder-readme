@@ -4,7 +4,7 @@ Floor Builder turns a floor-plan image into editable rooms and a multi-floor bui
 
 ## Workflow
 
-1. **Import and review.** Upload a floor-plan image, compare it with suggested walls and rooms, and correct the layout before using the results.
+1. **Import and review.** Upload a floor-plan image and compare it with suggested walls and rooms. Detection favors longer lines to reduce false walls from labels; draw missing short walls during review.
 
    ![Simple demo plan with suggested rooms overlaid on the source image](images/photo-overlay.jpg)
 
