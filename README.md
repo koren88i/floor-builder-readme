@@ -8,7 +8,7 @@ Floor Builder turns a floor-plan image into editable rooms and a multi-floor bui
 
    ![Simple demo plan with suggested rooms overlaid on the source image](images/photo-overlay.jpg)
 
-2. **Assign rooms.** Select a room, record its seats and area, and assign teams with headcounts. The room shows its total and free seats.
+2. **Assign rooms.** Select a room, record its seats and area, and assign teams with headcounts. The room shows its total and free seats. Room labels center the office name in a larger bold font, with the available Mador and team below it. Shared offices show each assignment; long labels wrap.
 
    ![Room details with a synthetic team assignment](images/room-details.jpg)
 
